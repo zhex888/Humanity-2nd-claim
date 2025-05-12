@@ -3,7 +3,8 @@ npm install node-fetch fetch-cookie tough-cookie https-proxy-agent figlet chalk
 
 Token获取
 
-![image](https://github.com/user-attachments/assets/e397ed5b-4ab8-413a-8778-3e4ca6a249e9)
+![image](https://github.com/user-attachments/assets/d35d3c90-48d8-4c08-b783-d0ff935ed420)
+
 
 
 启动命令
